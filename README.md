@@ -12,6 +12,6 @@
         width="48%" 
         min-width="420px" 
         height="200px" 
-        align="center" 
+        align="right" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonGuilherme767&theme=nightowl&hide_border=true" title="Github Contributions" />
 </p>
