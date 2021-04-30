@@ -6,7 +6,6 @@
        align="left" 
        src="https://github-readme-stats.vercel.app/api?username=PetersonGuilherme767&show_icons=true&theme=nightowl"
 </p>
-  
 <p>
   <img 
         width="48%" 
