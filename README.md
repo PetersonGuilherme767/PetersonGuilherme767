@@ -9,7 +9,7 @@
   
 <p>
   <img 
-        width="45%" 
+        width="48%" 
         min-width="420px" 
         height="200px" 
         align="right" 
