@@ -7,7 +7,7 @@
        src="https://github-readme-stats.vercel.app/api?username=PetersonGuilherme767&show_icons=true&theme=nightowl"
 </p>
   
-  <p>
+<p>
   <img 
         width="48%" 
         min-width="420px" 
