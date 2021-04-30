@@ -13,6 +13,5 @@
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=chartreuse-dark&hide_border=true" title="Github Contributions" />
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonGuilherme767&theme=nightowl&hide_border=true" title="Github Contributions" />
 </p>
-
