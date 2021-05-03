@@ -32,3 +32,8 @@
 </p>
 
 # Bem-vindo ao Meu Perfil :smiley:
+
+
+:seedling: I’m currently learning data analysis
+:speech_balloon: Ask me about: Python
+:mailbox: How to reach me: peterson.gss@hotmail.com
