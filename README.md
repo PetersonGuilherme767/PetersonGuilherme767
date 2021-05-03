@@ -34,7 +34,7 @@
 # Bem-vindo ao Meu Perfil :smiley:
 
 
-:seedling: I’m currently learning data analysis
+:seedling: I’m currently earning Data Analysis
 
 :speech_balloon: Ask me about: Python
 
