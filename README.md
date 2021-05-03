@@ -31,7 +31,7 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonGuilherme767&theme=tokyonight&hide_border=true" title="Github Contributions" />
 </p>
 
-# Bem-vindo ao Meu Perfil :smiley:
+# welcome to my profile :smiley:
 
 
 :seedling: I’m currently earning Data Analysis
